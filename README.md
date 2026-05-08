@@ -1,1 +1,1 @@
-Hi, I'm Omar. I'm a Web Developer specializing in C# and the .NET ecosystem. I spend my free time building full-stack personal projects with Blazor, experimenting with Machine Learning, hitting the gym, and leveling up my German. Always building, always learning.
+Hi, I'm Omar. I'm a Web Developer specializing in C# and the .NET ecosystem. I spend my free time building full-stack personal projects with Blazor, experimenting with Machine Learning, contributing to open source projects, and leveling up my German. Always building, always learning.
